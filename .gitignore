@@ -434,7 +434,6 @@
 /configuration.php
 /index.php
 /joomla.xml
-/*.txt
 .idea
 .DS_Store
 _notes
