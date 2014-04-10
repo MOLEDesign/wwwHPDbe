@@ -9,8 +9,8 @@ switchlanguageLostpasswordFr|https://eservices.hdp-partena.be/switchLanguage.do?
 registerGlobalFr|https://eservices.hdp-partena.be/eservices/switchLanguage.do?language=fr&nextPage=regist_global&service=0
 startRegistrationNl|https://registration.hdp-partena.be/registration/registration/startRegistration.do?lang=nl
 registerNoLang|https://registration.hdp-partena.be/registration/registration/startRegistration.do?lang
-subscriberswsdl|http://www.hdp-partena.be/webservices/subscribers.php?wsdl
-subscribers|http://www.hdp-partena.be/webservices/subscribers.php
+subscriberswsdl|http://localhost/webservices/subscribers.php?wsdl
+subscribers|http://localhost/webservices/subscribers.php
 EventWSOverview|https://academyws.hdp-partena.be/services/EventWSOverview
 IdentificationWS|https://academyws.hdp-partena.be/services/IdentificationWS
 InscriptionWS|https://academyws.hdp-partena.be/services/InscriptionWS
