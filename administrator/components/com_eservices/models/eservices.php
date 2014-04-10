@@ -32,8 +32,8 @@ function cleanup($output){
   function getUrl($type)
   {
 	//return "test";
-	//$myFile = JURI::root()."eservices.txt";
-	$myFile = JPATH_BASE."\eservices.txt";
+	$myFile = JURI::root()."eservices.txt";
+	//$myFile = JPATH_BASE."\eservices.txt";
 	$fh = fopen($myFile, 'r');
 	$i=1;
 	while($url = fgets($fh))
