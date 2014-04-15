@@ -29,7 +29,7 @@ class plgSystemEservices extends JPlugin
 
 		if($app->getName() != 'administrator') 
 		{
-			$myFile = JPATH_BASE."\eservices.txt";
+			$myFile = JPATH_BASE."/eservices.txt";
 			//$myFile = "D:\inetpub\wwwroot\hdp\eservices.txt";
 			$fh = fopen($myFile, 'r');
 			$i=1;
